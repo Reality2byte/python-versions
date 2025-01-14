@@ -1,4 +1,4 @@
-name: Get Python versions
+AlphaSTAR: Get Python versions
 on:
   schedule:
     - cron: '0 3,15 * * *'
